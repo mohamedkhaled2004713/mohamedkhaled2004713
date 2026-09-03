@@ -159,23 +159,13 @@ AI-based image processing and computer vision applications focused on extracting
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedkhaled2004713&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B96CFF&icon_color=00E5FF&text_color=FFFFFF" width="49%" />
+<a href="https://github.com/mohamedkhaled2004713">
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedkhaled2004713&show_icons=true&hide_border=true&theme=transparent" width="48%" />
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedkhaled2004713&hide_border=true&background=0D1117&ring=B96CFF&fire=00E5FF&currStreakLabel=FFFFFF" width="49%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkhaled2004713&layout=compact&hide_border=true&bg_color=0D1117&title_color=B96CFF&text_color=FFFFFF" width="45%" />
-
-</div>
-
----
-
-## `CONTRIBUTIONS`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedkhaled2004713&bg_color=0D1117&color=B96CFF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
+<a href="https://github.com/mohamedkhaled2004713">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkhaled2004713&layout=compact&hide_border=true&theme=transparent" width="40%" />
+</a>
 
 </div>
 
@@ -228,4 +218,3 @@ AI-based image processing and computer vision applications focused on extracting
 </a>
 
 </div>
-
