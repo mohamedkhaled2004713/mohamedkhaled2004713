@@ -155,22 +155,6 @@ AI-based image processing and computer vision applications focused on extracting
 
 ---
 
-## `GITHUB.ACTIVITY`
-
-<div align="center">
-
-<a href="https://github.com/mohamedkhaled2004713">
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedkhaled2004713&show_icons=true&hide_border=true&theme=transparent" width="48%" />
-</a>
-
-<a href="https://github.com/mohamedkhaled2004713">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkhaled2004713&layout=compact&hide_border=true&theme=transparent" width="40%" />
-</a>
-
-</div>
-
----
-
 ## `CURRENT.MISSION`
 
 ```text
